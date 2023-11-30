@@ -18,7 +18,7 @@ Download the code from our GitHub repository.
 
 Install the JUCE framework and any necessary dependencies if you haven't already.
 
-Open the plugin code in JUCE and adjust the circular buffer, delay time, feedback, mix, and other parameters as needed.
+Open the plugin code in JUCE
 
 Build the plugin and integrate it into your application or Digital Audio Workstation (DAW).
 
